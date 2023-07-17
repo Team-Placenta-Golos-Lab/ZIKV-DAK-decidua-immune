@@ -1,0 +1,17 @@
+Filename,Sample,Group,Batch,Cells per sample
+1) rh2791 8-2-21 D_All immune cells.csv,1_rh2791_allD,7 dpi DAK,DAK,19957
+6) rh2798 2-20-20 D_All immune cells.csv,6_rh2798_allD,14 dpi PBS,PBS,17997
+10) rh2804 5-24-21 D_All immune cells.csv,10_rh2804_allD,7 dpi PBS,PBS,16297
+12) r10066-3-21 D_DS.csv,12_r10066_allD,7 dpi DAK,DAK,50000
+13) r03122 1-22-21 D_DS.csv,13_r03122_allD,14 dpi DAK,DAK,50000
+14) rh2800 11-11-21 D_DS.csv,14_rh2800_allD,14 dpi PBS,PBS,49999
+15) r15092 11-9-21 D_DS.csv,15_r15092_allD,7 dpi DAK,DAK,50000
+17) rh2519 12-3-21 D_All immune cells.csv,17_rh2519_allD,14 dpi DAK,DAK,45839
+18) rh2804 12-10-21 D_DS.csv,18_rh2804_allD,7 dpi PBS,PBS,50000
+19) rh2809 12-17-21 D_DS.csv,19_rh2809_allD,7 dpi PBS,PBS,50000
+20) r16040 2-8-22 D_All immune cells_DS.csv,20_r16040_allD,7 dpi PBS,PBS,50000
+21) rh3050 2-28-22 D_DS.csv,21_rh3050_allD,14 dpi DAK,DAK,50000
+22) rh2760 10-4-21 D_DS.csv,22_rh2760_allD,14 dpi DAK,DAK,50000
+23) rh3010 2-11-22 D_DS.csv,23_rh3010_allD,7 dpi DAK,DAK,50000
+24) r05029 11-27-19 D_All immune cells.csv,24_r05029_allD,14 dpi PBS,PBS,21762
+25) r04144 12-4-19 D_All immune cells.csv,25_r04144_allD,14 dpi PBS,PBS,11300
