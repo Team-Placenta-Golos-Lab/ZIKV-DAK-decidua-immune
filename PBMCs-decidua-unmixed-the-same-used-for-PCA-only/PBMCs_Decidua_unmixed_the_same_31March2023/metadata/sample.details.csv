@@ -1,0 +1,33 @@
+﻿Filename,Sample,Group,Batch,Cells per sample
+1_rh2791_allD_All immune cells.csv,1_rh2791_allD,DAK Decidua,Decidua,19270
+6_rh2798_allD_All immune cells.csv,6_rh2798_allD,PBS Decidua,Decidua,18294
+10_rh2804_allD_All immune cells.csv,10_rh2804_allD,PBS Decidua,Decidua,16797
+12_r10066_allD_DS.csv,12_r10066_allD,DAK Decidua,Decidua,50000
+13_r03122_allD_DS.csv,13_r03122_allD,DAK Decidua,Decidua,50000
+14_rh2800_allD_DS.csv,14_rh2800_allD,PBS Decidua,Decidua,50000
+15_r15092_allD_DS.csv,15_r15092_allD,DAK Decidua,Decidua,50000
+17_rh2519_allD_All immune cells.csv,17_rh2519_allD,DAK Decidua,Decidua,45490
+18_rh2804_allD_DS.csv,18_rh2804_allD,PBS Decidua,Decidua,50000
+19_rh2809_allD_DS.csv,19_rh2809_allD,PBS Decidua,Decidua,50000
+20_r16040_allD_DS.csv,20_r16040_allD,PBS Decidua,Decidua,50000
+21_rh3050_allD_DS.csv,21_rh3050_allD,DAK Decidua,Decidua,50000
+22_rh2760_allD_DS.csv,22_rh2760_allD,DAK Decidua,Decidua,50000
+23_rh3010_allD_DS.csv,23_rh3010_allD,DAK Decidua,Decidua,50000
+24_r05029_allD_All immune cells.csv,24_r05029_allD,PBS Decidua,Decidua,18927
+25_r04144_allD_All immune cells.csv,25_r04144_allD,PBS Decidua,Decidua,9359
+27_rh2798_P_All immune cells.csv,27_rh2798_allP,PBS PBMCs,PBMCs,27757
+28_r10066_P_All immune cells.csv,28_10066_allP,DAK PBMC,PBMCs,39691
+29_rh2760_P_DS.csv,29_rh2760_allP,DAK PBMC,PBMCs,50000
+30_r15092_P_DS.csv,30_r15092_allP,DAK PBMC,PBMCs,50000
+31_r03122_P_DS.csv,31_r03122_allP,DAK PBMC,PBMCs,50000
+33_rh2519_P_DS.csv,33_rh2519_allP,DAK PBMC,PBMCs,50000
+34_rh3010_P_DS.csv,34_rh3010_allP,DAK PBMC,PBMCs,50000
+35_rh3050_P_DS.csv,35_rh3050_allP,DAK PBMC,PBMCs,50000
+36_rh2791_P_All immune cells.csv,36_rh2791_allP,DAK PBMC,PBMCs,39581
+44_r04144_P_DS.csv,44_r04144_allP,PBS PBMCs,PBMCs,50000
+45_r05029_P_All immune cells.csv,45_r05029_allP,PBS PBMCs,PBMCs,14298
+46_rh2804_P_DS.csv,46_rh2804_allP,PBS PBMCs,PBMCs,50000
+47_rh2900_P_DS.csv,47_rh2800_allP,PBS PBMCs,PBMCs,50000
+48_rh2804_P_DS.csv,48_rh2804_allP,PBS PBMCs,PBMCs,50000
+50_rh2809_P_DS.csv,50_rh2809_allP,PBS PBMCs,PBMCs,50000
+51_r16040_P_DS.csv,51_r16040_allP,PBS PBMCs,PBMCs,50000
