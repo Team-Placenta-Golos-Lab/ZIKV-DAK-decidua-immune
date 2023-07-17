@@ -1,0 +1,17 @@
+Filename,Sample,Group,Batch,Cells per sample
+1_rh2791D__CD8_T_cells.csv,1_rh2791_CD8-T-cells,7 dpi DAK,DAK,4622
+6_rh2798D__CD8_T_cells.csv,6_rh2798_CD8-T-cells,14 dpi PBS,PBS,4693
+10_rh2804D__CD8_T_cells.csv,10_rh2804_CD8-T-cells,7 dpi PBS,PBS,3131
+12_r10066D__CD8_T_cells.csv,12_r10066_CD8-T-cells,7 dpi DAK,DAK,21029
+13_r03122D__CD8_T_cells.csv,13_r03122_CD8-T-cells,14 dpi DAK,DAK,5209
+14_rh2800D__CD8_T_cells.csv,14_rh2800_CD8-T-cells,14 dpi PBS,PBS,7302
+15_r15092D__CD8_T_cells.csv,15_r15092_CD8-T-cells,7 dpi DAK,DAK,19685
+17_rh2519D__CD8_T_cells.csv,17_rh2519_CD8-T-cells,14 dpi DAK,DAK,20591
+18_rh2804D__CD8_T_cells.csv,18_rh2804_CD8-T-cells,7 dpi PBS,PBS,14958
+19_rh2809D__CD8_T_cells.csv,19_rh2809_CD8-T-cells,7 dpi PBS,PBS,19099
+20_r16040D__CD8_T_cells.csv,20_r16040_CD8-T-cells,7 dpi PBS,PBS,22867
+21_rh3050D__CD8_T_cells.csv,21_rh3050_CD8-T-cells,14 dpi DAK,DAK,9822
+22_rh2760D__CD8_T_cells.csv,22_rh2760_CD8-T-cells,14 dpi DAK,DAK,25440
+23_rh3010D__CD8_T_cells.csv,23_rh3010_CD8-T-cells,7 dpi DAK,DAK,16201
+24_r05029D__CD8_T_cells.csv,24_r05029_CD8-T-cells,14 dpi PBS,PBS,10304
+25_r04144D__CD8_T_cells.csv,25_r04144_CD8-T-cells,14 dpi PBS,PBS,7477

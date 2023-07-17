@@ -1,0 +1,17 @@
+Filename,Sample,Group,Batch,Cells per sample
+1_rh2791D__CD4_T_cells.csv,1_rh2791_CD4Tcells,7 dpi DAK,DAK,2255
+10_rh2804D__CD4_T_cells.csv,10_rh2804_CD4Tcells,7 dpi PBS,PBS,446
+12_r10066D__CD4_T_cells.csv,12_r10066_CD4Tcells,7 dpi DAK,DAK,1709
+13_r03122D__CD4_T_cells.csv,13_r03122_CD4Tcells,14 dpi DAK,DAK,1741
+14_rh2800D__CD4_T_cells.csv,14_rh2800_CD4Tcells,14 dpi PBS,PBS,8107
+15_r15092D__CD4_T_cells.csv,15_r15092_CD4Tcells,7 dpi DAK,DAK,1836
+17_rh2519D__CD4_T_cells.csv,17_rh2519_CD4Tcells,14 dpi DAK,DAK,4915
+18_rh2804D__CD4_T_cells.csv,18_rh2804_CD4Tcells,7 dpi PBS,PBS,3387
+19_rh2809D__CD4_T_cells.csv,19_rh2809_CD4Tcells,7 dpi PBS,PBS,3010
+20_r16040D__CD4_T_cells.csv,20_r16040_CD4Tcells,7 dpi PBS,PBS,7018
+21_rh3050D__CD4_T_cells.csv,21_rh3050_CD4Tcells,14 dpi DAK,DAK,2259
+22_rh2760D__CD4_T_cells.csv,22_rh2760_CD4Tcells,14 dpi DAK,DAK,3143
+23_rh3010D__CD4_T_cells.csv,23_rh3010_CD4Tcells,7 dpi DAK,DAK,4006
+24_r05029D__CD4_T_cells.csv,24_r05029_CD4Tcells,14 dpi PBS,PBS,3763
+25_r04144D__CD4_T_cells.csv,25_r04144_CD4Tcells,14 dpi PBS,PBS,1464
+6_rh2798D__CD4_T_cells.csv,6_rh2798_CD4Tcells,14 dpi PBS,PBS,2593
